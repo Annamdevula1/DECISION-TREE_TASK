@@ -11,7 +11,7 @@ Predict passenger survival using a Decision Tree Classifier.
 - Matplotlib
 
 ## Dataset
-Titanic- Dataset
+Titanic-Dataset.csv
 
 ## Steps
 1. Load dataset
